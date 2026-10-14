@@ -1,0 +1,10 @@
+__pycache__/
+vendor/
+*.pyc
+.venv/
+.env
+.env.*
+auth.json
+*credentials*.json
+*.log
+.test-artifacts/
